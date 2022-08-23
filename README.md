@@ -11,6 +11,9 @@ I am a tech enthusiast & an open-source advocate. Always open to collaborating o
 
 ## ⚡ Technologies
 
+![Xamarin](https://img.shields.io/badge/Xamarin-Xamarin-yellow)
+![.NetCore](https://img.shields.io/badge/.NetCore-DotNetCore-brightgreen)
+![.Net](https://img.shields.io/badge/.Net-DotNet-blueviolet)
 ![C#](https://img.shields.io/badge/C%23-CSharp-orange)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
