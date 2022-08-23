@@ -11,6 +11,7 @@ I am a tech enthusiast & an open-source advocate. Always open to collaborating o
 
 ## ⚡ Technologies
 
+![C#](https://img.shields.io/badge/C%23-CSharp-orange)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
