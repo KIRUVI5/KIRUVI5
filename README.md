@@ -5,7 +5,7 @@ Developing and guiding team including coding,testing, and integration.Seeking to
 
 I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mkvimalan/)](https://www.linkedin.com/in/mkvimalan/)
+[![Linkedin Badge](https://img.shields.io/badge/-mkvimalan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mkvimalan/)](https://www.linkedin.com/in/mkvimalan/)
 
 <!--
 **KIRUVI5/KIRUVI5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
